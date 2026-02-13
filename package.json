@@ -1,0 +1,21 @@
+{
+  "name": "ad311-simple-server-in-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esampdelia/ad311-simple-server-in-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/esampdelia/ad311-simple-server-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/esampdelia/ad311-simple-server-in-nodejs#readme"
+}
